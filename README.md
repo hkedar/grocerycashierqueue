@@ -1,2 +1,0 @@
-#Grocery Store Cashier Simulator
-
